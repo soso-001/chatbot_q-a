@@ -9,3 +9,5 @@ Features
 - 🌟 Built with Gradio for an easy-to-use web interface
 
 Run the Jupyter/Colab notebook and follow the Gradio interface.
+
+<img width="1661" height="741" alt="chatbot_qa" src="https://github.com/user-attachments/assets/f859f63f-ad2b-4b1c-9e48-2d7016194c1d" />
