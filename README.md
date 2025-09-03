@@ -1,2 +1,11 @@
 # chatbot_q-a
 A chatbot that answers user questions based on the content of an uploaded document, using Retrieval-Augmented Generation (RAG) and a language model.
+
+Features
+- 🧠 Uses RAG pipeline (FAISS + LLM) for accurate answers
+- 📄 Supports PDF, TXT, and DOCX document uploads
+- 💬 Ask any question related to the uploaded document
+- 🪄 Powered by OpenAI’s GPT models or Hugging Face LLMs
+- 🌟 Built with Gradio for an easy-to-use web interface
+
+Run the Jupyter/Colab notebook and follow the Gradio interface.
