@@ -1,0 +1,10 @@
+faiss-cpu
+tiktoken
+python-docx
+tools
+langchain-community
+PyMuPDF
+huggingface_hub
+langchain
+gradio
+transformers
